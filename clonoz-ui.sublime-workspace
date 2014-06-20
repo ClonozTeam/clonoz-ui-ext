@@ -1,0 +1,496 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"refres",
+				"refreshed"
+			],
+			[
+				"ge",
+				"getComponent"
+			],
+			[
+				"suces",
+				"succesfull"
+			],
+			[
+				"act",
+				"action"
+			],
+			[
+				"on",
+				"onFailure"
+			],
+			[
+				"se",
+				"services"
+			],
+			[
+				"Aut",
+				"authSerivce"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"Fo",
+				"From"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"NSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"alignm",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"ter",
+				"TernJS: Jump to definition"
+			],
+			[
+				"Tern",
+				"TernJS: Jump to definition"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"insts",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 629.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/huhu/clonoz-ui/app.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/sass/src/view/main/Main.scss",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/main/Main.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/main/MainController.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/databases/DatabasesController.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/sass/src/view/databases/Databases.scss",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app.json",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/model/Database.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/databases/Databases.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/login/LoginController.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/sass/var/view/main/Main.scss",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/resources/css/style.css",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/login/Login.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/databases/DatabasesModel.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/SimData.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/Application.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/store/User.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/sass/etc/all.scss",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/Database.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/model/Permission.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/model/User.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/model/Statistic.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/model/Base.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/ext/src/grid/header/Container.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/sass/src/view/sources/Sources.scss",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/sources/SourcesController.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/store/Sources.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/model/Sources.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/model/MetaProfitloss.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/controller/Root.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/sources/SourcesModel.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/sources/Sources.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/sources1/SourcesController.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/ux/plugin/RowExpander.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/settings/Users.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/settings/Settings.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/mocking/Mocking.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/sass/src/view/Main.scss",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/stylesheets/var/view/main/Main.css",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/stylesheets/src/view/Main.css",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/stylesheets/etc/all.css",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/build/development/Clonos/resources/Clonos-all.css",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/window/Notification.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/bootstrap.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/settings/SettingsModel.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/mocking/MockingModel.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/mocking/MockingController.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/settings/UsersModel.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/settings/UsersController.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/settings/SettingsController.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/settings/User.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/login/LoginModel.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/ext/packages/ext-locale/.sencha/package/plugin.xml",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/main/MainModel.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/bootstrap.css",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/build/development/Clonos/resources/css",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/resources/css",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/bootstrap.json",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/ext/packages/ext-theme-base/sass/example/manifest.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/ext/packages/ext-theme-classic-sandbox/sass/example/manifest.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/ext/packages/ext-theme-neptune/sass/example/manifest.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/ext/bootstrap-manifest.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/ext/packages/sencha-charts/src/draw/modifier/Animation.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/ext/src/app/EventDomain.js",
+		"/Users/huhu/Dev/work/clonos/vendor/nette/forms/examples/manual-rendering.php",
+		"/Users/huhu/Dev/work/clonos/vendor/nette/component-model/src/ComponentModel/Container.php",
+		"/Users/huhu/Dev/work/clonos/vendor/nette/component-model/src/ComponentModel/IContainer.php",
+		"/Users/huhu/Dev/work/clonos/vendor/nette/tester/tests/annotations/outputMatchFile.notmatch.phptx",
+		"/Users/huhu/Dev/work/clonos/vendor/nette/tester/tests/annotations/output/outputMatchFile.notmatch.phptx.actual",
+		"/Users/huhu/Dev/work/clonos/vendor/nette/tester/tests/annotations/output/outputMatchFile.notmatch.phptx.expected",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/ext/packages/ext-theme-aria/.sencha/package/init-impl.xml",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/ext/packages/ext-theme-neutral/sass/src/app/bindinspector/Inspector.scss",
+		"/Users/huhu/Dev/work/clonos/www/.maintenance.php",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/ext/packages/sencha-charts/server/node/main.js",
+		"/Users/huhu/Dev/work/clonos/www/js/main.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/ext/packages/sencha-core/test/jasmine/MockAjax.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/.sencha/app/bootstrap-impl.xml",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/model/Permision.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/view/main/main.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/dic/Container.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/authentication/AuthenticationService.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/mixin/Injectable.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/controller/Main.js",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/app/dic/DependencyInjection.js",
+		"/Users/huhu/git/netsuite/Lib/DependencyInjection/DependencyInjection.js",
+		"/Users/huhu/.Trash/LoginModel.js",
+		"/Users/huhu/Dev/work/clonos/www/index.php",
+		"/Users/huhu/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/huhu/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/huhu/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/huhu/Library/Application Support/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/Users/huhu/Library/Application Support/Sublime Text 3/Packages/JSLint/JSLint.sublime-build",
+		"/Users/huhu/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/index.html",
+		"/Users/huhu/Dev/work/clonos/www/js/apps/Clonos/build.xml",
+		"/Users/huhu/Dev/work/docopy/www/js/apps/docopy/app/Application.js",
+		"/Users/huhu/Dev/work/docopy/www/js/apps/docopy/app.js",
+		"/Users/huhu/Dev/work/docopy/www/js/apps/docopy/app/view/Main.js",
+		"/Users/huhu/Dev/work/docopy/www/js/apps/docopy/app/view/Viewport.js",
+		"/Users/huhu/Dev/work/docopy/www/js/apps/docopy/bootstrap.js",
+		"/Users/huhu/Dev/work/docopy/www/js/apps/docopy/index.html",
+		"/Users/huhu/Dev/work/docopy/www/js/apps/docopy/app/view/Readme.md",
+		"/Users/huhu/Dev/work/docopy/www/js/apps/docopy/.sencha/app/sencha.cfg",
+		"/Users/huhu/Dev/work/docopy/www/js/apps/docopy/bootstrap.css",
+		"/Users/huhu/Dev/work/docopy/app/bootstrap.php",
+		"/Users/huhu/Dev/work/docopy/app/presenters/HomepagePresenter.php",
+		"/Users/huhu/Dev/work/docopy/docopy.sublime-project",
+		"/Users/huhu/Dev/work/docopy/www/js/netteForms.js",
+		"/Users/huhu/Dev/work/docopy/www/adminer/index.php",
+		"/Users/huhu/Dev/work/docopy/www/js/main.js",
+		"/Users/huhu/Dev/work/docopy/www/web.config",
+		"/Users/huhu/Dev/work/docopy/www/robots.txt",
+		"/Users/huhu/Dev/work/docopy/composer.json",
+		"/Users/huhu/git/netsuite/Templates/PageUp/EnergyAustralia/ImportDownstreamAgencyNotification.tpl",
+		"/Users/huhu/git/netsuite/Templates/PageUp/Origin/ImportDownstreamAgencyNotification.tpl",
+		"/Users/huhu/git/netsuite/Templates/PageUp/Origin/ImportNotification.tpl",
+		"/Users/huhu/git/netsuite/Lib/Award/Calculator/Package Control Messages",
+		"/Users/huhu/git/netsuite/Lib/Award/Calculator/AwardCalculator.js",
+		"/Users/huhu/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/huhu/Library/Application Support/Sublime Text 3/Packages/Terminal/Base File.sublime-settings",
+		"/Users/huhu/Library/Application Support/Sublime Text 3/Packages/TernJS/TernJS.sublime-settings",
+		"/Users/huhu/git/netsuite/Lib/Award/Form/CalculatorLoginForm.js",
+		"/Users/huhu/git/netsuite/Lib/Award/Form/CalculatorForm.js",
+		"/Users/huhu/git/netsuite/Lib/Init.js",
+		"/Users/huhu/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/Users/huhu/git/netsuite/netsuite.sublime-project",
+		"/Users/huhu/git/netsuite/Netsuite/Milan_CXC.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"clonos-menu-navigation",
+			"stri",
+			"roun",
+			"exec",
+			"storeUpdateSuccess",
+			"insta",
+			"                type: 'json',\n",
+			"        'type',\n        'database',\n        'source',",
+			"Clonos.model.Sources",
+			"profi",
+			"exec",
+			"ExecDashboard",
+			"ProfitLoss",
+			"Exec",
+			"pl",
+			"$panel-base-color ",
+			"clonos-font-bold",
+			"clonos-font-bold\\",
+			"clonos-font-bold",
+			"exec",
+			"kpi",
+			"sources",
+			"exec",
+			"f14",
+			"32",
+			"header",
+			"exec-header-icon",
+			"content-panel-body",
+			"exe",
+			"'([^']+)':",
+			"\"",
+			"'([^']+)':",
+			"\"",
+			"\"([^']+)\":",
+			"'([^']+)':",
+			"\"",
+			"'([^']+)':",
+			"'([^'])':",
+			"\"",
+			"main",
+			"cls",
+			"	",
+			"mon\ntruee\nloadFromTemplate\nwerf\nwerf\nwerf\newrf",
+			"bulkdetails",
+			"recipientsource",
+			"bulkdetails",
+			"BulkDetailsStep",
+			"false,\n			'cancelled",
+			",\n			'cancelled",
+			"\n			'cancelled",
+			"			'",
+			"			",
+			"		"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"clonos",
+			"sources",
+			"clonos",
+			"databases",
+			"clonos",
+			"\\1:",
+			"'",
+			"\\1:",
+			"'",
+			"\\1:",
+			"'",
+			"\\1:",
+			"'",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "clonoz-ui.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"clonos/www/js/main.js"
+			],
+			[
+				"boot",
+				"app/bootstrap.php"
+			],
+			[
+				"",
+				"git/netsuite/Lib/EchoSign/BulkAssistant/BulkAssistant.js"
+			],
+			[
+				"basec",
+				"git/netsuite/Lib/Application/BaseController.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+		],
+		"width": 836.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 387.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
