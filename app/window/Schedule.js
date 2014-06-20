@@ -1,7 +1,7 @@
 Ext.define('Clonos.window.Schedule', {
     extend: 'Ext.window.Window',
     alias: 'widget.scheduleWindow',
-    title: _('Schedule refresh'),
+    title: 'Schedule refresh',
     modal: true,
     draggable: false,
     shadow: false,
@@ -19,7 +19,7 @@ Ext.define('Clonos.window.Schedule', {
             name: 'refreshtime',
             allowBlank: true,
             format: 'H:i',
-            fieldLabel: _('First refresh'),
+            fieldLabel: 'First refresh',
             enableKeyEvents: true,
             minValue: new Date()
         }, {
@@ -28,14 +28,14 @@ Ext.define('Clonos.window.Schedule', {
             name: 'refresh',
             allowBlank: false,
             value: 24,
-            fieldLabel: _('Refresh period in hours'),
+            fieldLabel: 'Refresh period in hours',
             enableKeyEvents: true
         }],
 
         buttons: [{
-            text: _('Schedule')
+            text: 'Schedule'
         },{
-            text: _('Cancel')
+            text: 'Cancel'
         }]
     }]
 });
